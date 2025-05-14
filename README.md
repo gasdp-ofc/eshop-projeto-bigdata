@@ -58,3 +58,13 @@ http://localhost:8501
 ## 📸 Exemplos Visuais
 
 Veja a pasta `/exemplos` com prints ou animações demonstrando a aplicação em funcionamento.
+
+---
+
+## 📸 Exemplos Visuais da Aplicação
+
+### 📷 Print da Interface
+![Print da Interface](exemplos/app_example.png)
+
+### 🎞️ GIF Simulando o Fluxo
+![GIF da Aplicação](exemplos/exemplos_com_animacao.gif)
