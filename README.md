@@ -61,12 +61,4 @@ Veja a pasta `/exemplos` com prints ou animações demonstrando a aplicação em
 
 ---
 
-## 📸 Exemplos Visuais da Aplicação
 
-### 📷 Print da Interface
-(https://github.com/user-attachments/assets/050cc067-f956-4cd9-aee0-03fab0a4804a)
-
-
-
-### 🎞️ GIF Simulando o Fluxo
-![GIF da Aplicação](exemplos/exemplos_com_animacao.gif)
