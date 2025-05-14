@@ -37,7 +37,7 @@ Este projeto oferece uma solução visual e interativa usando **MongoDB**, **Doc
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/e-shop-brasil-bigdata.git
+git clone https://github.com/gasdp-ofc/e-shop-brasil-bigdata.git
 cd e-shop-brasil-bigdata
 ```
 
